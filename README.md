@@ -1,3 +1,3 @@
 # Quiz App
 
-It is a quiz app build using MERN stack
+It is a quiz app built using MERN stack
